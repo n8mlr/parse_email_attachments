@@ -1,1 +1,6 @@
-# parse_email_attachments
+# Parse Email Attachments
+
+# AWS Resources
+
+Development bucket: mckinstry-development
+Production: mckinstry
